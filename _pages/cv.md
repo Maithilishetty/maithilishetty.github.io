@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: <a href="maithilishetty.github.io/files/Resume_Maithili_Shetty.pdf" target="_blank">PDF.</a>
 author_profile: true
 redirect_from:
   - /resume
