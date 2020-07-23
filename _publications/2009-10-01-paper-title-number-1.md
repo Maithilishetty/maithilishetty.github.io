@@ -12,4 +12,4 @@ This original work is on designing a SiC based single-phase cycloconverter as op
 
 [Download paper here](https://www.researchgate.net/publication/339599542_A_Novel_Approach_to_Design_Single-Phase_Cycloconverter_Using_SiC_MOSFET_and_its_Performance_Analysis_over_IGBT)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2)
+#Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2)
