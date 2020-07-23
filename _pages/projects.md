@@ -29,3 +29,10 @@ Presented a novel approach to design a cycloconverter using SiC MOSFET as oppose
 
 [View the project here](https://github.com/Maithilishetty/SiC_transistor_performance_analysis)
 
+### Neural Network Controller | MATLAB
+
+Implemented a neural network to control and stabilise an Inverted Pendulum. Used a feed forward neural network to stabilise the pendulum using the back propagation algorithm and simulated it in MATLAB.
+
+[View the project here](https://github.com/Maithilishetty/NeuralNetController)
+
+
