@@ -15,3 +15,10 @@ discrete-time robust control law based on UDE has been derived. Numerical simula
 
 [View the project here](https://github.com/Maithilishetty/UDE-DiscreteTime)
 
+
+### Acute Infarct Location Classification | Python
+
+Built a suitable CNN model to infer the acute infarct class locations on a small dataset. Further extented this to obtain the IR representation to enable the model to run on Intel NCS2. 
+
+[View the project here](https://github.com/Maithilishetty/Acute-Infarct-DL)
+
