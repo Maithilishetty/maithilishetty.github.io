@@ -37,6 +37,6 @@ Implemented a neural network to control and stabilise an Inverted Pendulum. Used
 
 ### Identification and Control of Nonlinear Systems | MATLAB
 
-Designed neural network controllers for the identification and control of nonlinear dynamical systems. Performed a comparison with different algorithms like BPA and OSLA. Used the paper 'Identification and Control of Dynamical Systems using Neural Networks', by KS Narendra and K.Parthasarathy as reference. 
+Designed neural network controllers for the identification and control of nonlinear dynamical systems. Performed a comparison with different algorithms like BPA and OSLA. Used the paper 'Identification and Control of Dynamical Systems using Neural Networks', by KS Narendra and K Parthasarathy as reference. 
 
 
