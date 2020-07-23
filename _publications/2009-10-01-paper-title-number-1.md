@@ -11,5 +11,3 @@ paperurl: 'https://www.researchgate.net/publication/339599542_A_Novel_Approach_t
 This original work is on designing a SiC based single-phase cycloconverter as opposed to the conventional usage of IGBT. It compares both and concludes the higher efficiency of SiC MOSFET.
 
 [Download paper here](https://www.researchgate.net/publication/339599542_A_Novel_Approach_to_Design_Single-Phase_Cycloconverter_Using_SiC_MOSFET_and_its_Performance_Analysis_over_IGBT)
-
-#Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
