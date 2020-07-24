@@ -13,7 +13,6 @@ are performed for the proposed techniques, and results indicate highly accurate 
 excellent disturbance rejection. In particular, it is seen that the proposed control law is less sensitive to initial conditions when
 compared to the original continuous-time UDE law.'
 date: 2020-06-18
-under review: 'Automatica'
 
 ---
 
