@@ -1,7 +1,6 @@
 ---
 title: "Discrete-Time Design and Applications of Uncertainty and Disturbance Estimator"
 collection: publications
-#permalink: /publication/2009-10-01-paper-title-number-1.md
 excerpt: 'This paper proposes a discrete-time design for the robust control technique of Uncertainty and Disturbance Estimator (UDE),
 with studies on applications to real-world systems. Despite the ease of implementation of discrete-time strategies, almost all
 prior work on UDE is for designing continuous-time control laws, with no general, complete research for discrete-time design.
@@ -15,11 +14,5 @@ excellent disturbance rejection. In particular, it is seen that the proposed con
 compared to the original continuous-time UDE law.'
 date: 2020
 venue: 'Under Review in Automatica'
-paperurl: 'https://www.researchgate.net/publication/339599542_A_Novel_Approach_to_Design_Single-Phase_Cycloconverter_Using_SiC_MOSFET_and_its_Performance_Analysis_over_IGBT'
-#citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 
----
-This original work is on designing a SiC based single-phase cycloconverter as opposed to the conventional usage of IGBT. It compares both and concludes the higher efficiency of SiC MOSFET.
-
-[Download paper here](https://www.researchgate.net/publication/339599542_A_Novel_Approach_to_Design_Single-Phase_Cycloconverter_Using_SiC_MOSFET_and_its_Performance_Analysis_over_IGBT)
 
