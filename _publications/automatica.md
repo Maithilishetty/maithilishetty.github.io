@@ -1,0 +1,15 @@
+---
+title: "Discrete-Time Design and Application of Uncertainty and Disturbance Estimator"
+collection: publications
+#permalink: /publication/2009-10-01-paper-title-number-1.md
+excerpt: 'This paper proposes a discrete-time design for the robust control technique of Uncertainty and Disturbance Estimator (UDE), with studies on applications to real-world systems. Despite the ease of implementation of discrete-time strategies, almost all prior work on UDE is for designing continuous-time control laws, with no general, complete research for discrete-time design. To design an appropriate discrete-time control law, a novel digital filter similar to the original analog filter for disturbance estimation is designed, a discrete-time error-based control law is derived, and a detailed stability analysis is provided. However, most real-world, physical systems are nonlinear and continuous-time in nature. Thus, the techniques of sampling and digital-analog (D/A) conversion are used, enabling the control of linear, time-invariant as well as a class of nonlinear, continuous-time systems using discrete-time UDE. The considered nonlinear system is for the phenomenon of wing-rock motion. Simulations are performed for the proposed techniques, and results indicate highly accurate stabilization and tracking performance, with excellent disturbance rejection. In particular, it is seen that the proposed control law is less sensitive to initial conditions when compared to the original continuous-time UDE law.'
+date: 2020
+in review: 'Automatica'
+#paperurl: 'https://www.researchgate.net/publication/339599542_A_Novel_Approach_to_Design_Single-Phase_Cycloconverter_Using_SiC_MOSFET_and_its_Performance_Analysis_over_IGBT'
+#citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+
+---
+This work proposes a slightly modified UDE control law design for continuous-time systems and extends the same principle in-order to achieve a discrete-time robust control law along with the stability analysis.
+
+
+
