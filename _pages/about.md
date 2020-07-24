@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior pursuing Electronics and Communication Engineering at PES University. I am part of the [Centre For Intelligent Systems Lab](https://research.pes.edu/cis/) at PES University, carrying out research work under the guidance of Prof. Koshy George in the field of Neural Network Control and Reinforcement Learning for Control Systems.   
+I am currently a senior pursuing Electronics and Communication Engineering at PES University. I am part of the [PES Centre For Intelligent Systems Lab](https://research.pes.edu/cis/) carrying out research work under the guidance of Prof. Koshy George in the field of Neural Network Control and Reinforcement Learning for Control Systems.   
 
 My research interests include Reinforcement Learning, Robotics, Robust Control Systems and Intelligent Systems. In particular, I am interested in designing intelligent and robust controllers that are able to autonomously control a machine without any human interference. 
