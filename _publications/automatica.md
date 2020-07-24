@@ -15,4 +15,9 @@ compared to the original continuous-time UDE law.'
 date: 2020
 venue: 'Under Review in Automatica'
 
+---
+
+This paper proposes a discrete-time design for the robust control technique of Uncertainty and Disturbance Estimator (UDE),
+with studies on applications to real-world systems.
+ 
 
