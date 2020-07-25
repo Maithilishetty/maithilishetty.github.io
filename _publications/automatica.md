@@ -1,5 +1,6 @@
 ---
 title: "Discrete-Time Design and Applications of Uncertainty and Disturbance Estimator"
+collection: Publications
 excerpt: 'This paper proposes a discrete-time design for the robust control technique of Uncertainty and Disturbance Estimator (UDE),
 with studies on applications to real-world systems. Despite the ease of implementation of discrete-time strategies, almost all
 prior work on UDE is for designing continuous-time control laws, with no general, complete research for discrete-time design.
@@ -12,6 +13,7 @@ are performed for the proposed techniques, and results indicate highly accurate 
 excellent disturbance rejection. In particular, it is seen that the proposed control law is less sensitive to initial conditions when
 compared to the original continuous-time UDE law.'
 date: 2020-06-18
+venue: 'Under Review in Automatica'
 
 
 ---
