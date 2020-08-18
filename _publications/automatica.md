@@ -12,7 +12,7 @@ systems using discrete-time UDE. The considered nonlinear system is for the phen
 are performed for the proposed techniques, and results indicate highly accurate stabilization and tracking performance, with
 excellent disturbance rejection. In particular, it is seen that the proposed control law is less sensitive to initial conditions when
 compared to the original continuous-time UDE law.'
-venue: 'Under Review in Automatica'
+venue: 'Under Review in International Journal of Robust and Nonlinear Control'
 date: 2020-07-18
 
 
