@@ -29,7 +29,7 @@ Presented a novel approach to design a cycloconverter using SiC MOSFET as oppose
 Implemented a neural network to control and stabilise an Inverted Pendulum. Used a feed forward neural net to stabilise the pendulum using the back propagation algorithm and simulated it in MATLAB.
 
 
-### Identification and Control of Nonlinear Systems | MATLAB
+### [Identification and Control of Nonlinear Systems](https://github.com/Maithilishetty/Neural-Net-Control) | MATLAB
 
 Designed neural network controllers for the identification and control of nonlinear dynamical systems. Performed a comparison with different algorithms like BPA and OSLA. Used the paper 'Identification and Control of Dynamical Systems using Neural Networks', by KS Narendra and K Parthasarathy as reference. 
 
