@@ -12,12 +12,14 @@ systems using discrete-time UDE. The considered nonlinear system is for the phen
 are performed for the proposed techniques, and results indicate highly accurate stabilization and tracking performance, with
 excellent disturbance rejection. In particular, it is seen that the proposed control law is less sensitive to initial conditions when
 compared to the original continuous-time UDE law.'
-venue: 'Under Review in International Journal of Robust and Nonlinear Control'
-date: 2020-07-18
+venue: 'International Journal of Robust and Nonlinear Control'
+paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/rnc.5518'
+date: 2021-04-04
 
 
 ---
 
-This paper proposes a modified form of the continuous-time UDE law originally proposed by Zhong and Rees. It further extends this to concept to design a control law for discrete-time system. Stability analysis and numerical simulations for these techniques have been provided as well. 
+Download the paper [here](https://onlinelibrary.wiley.com/doi/10.1002/rnc.5518). 
+The code for this paper is available [here](https://github.com/Maithilishetty/UDE-DiscreteTime). 
  
 
