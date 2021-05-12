@@ -10,5 +10,5 @@ paperurl: 'https://link.springer.com/chapter/10.1007%2F978-981-15-4775-1_31'
 
 ---
 
-Download the paper [here](https://link.springer.com/chapter/10.1007%2F978-981-15-4775-1_31). The code for the paper is available [here](https://github.com/Maithilishetty/SiC_transistor_performance_analysis)
+Download the paper [here](https://link.springer.com/chapter/10.1007%2F978-981-15-4775-1_31). The code for the paper is available [here](https://github.com/Maithilishetty/SiC_transistor_performance_analysis). 
 
