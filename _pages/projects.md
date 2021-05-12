@@ -33,7 +33,7 @@ Presented a novel approach to design a cycloconverter using SiC MOSFET as oppose
 
 ### [Neural Network Controller](https://github.com/Maithilishetty/NeuralNetController) | MATLAB
 
-Implemented a neural network to control and stabilise an Inverted Pendulum. Used a feed forward neural net to stabilise the pendulum using the back propagation algorithm and simulated it in MATLAB.
+Implemented a neural network to control and stabilise an Inverted Pendulum. Used a feed forward neural net to stabilise the pendulum using back propagation algorithm and simulated it in MATLAB.
 
 
 ### [Identification and Control of Nonlinear Systems](https://github.com/Maithilishetty/Neural-Net-Control) | MATLAB
