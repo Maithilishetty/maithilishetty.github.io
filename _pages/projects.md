@@ -5,7 +5,14 @@ permalink: /projects/
 author_profile: true
 
 ---
+### Design of an Optimal Controller for Effective Radiotherapy | MATLAB
 
+This work aim to design a controller to predict the optimal amount of radiation dosages using the Model Predictive Static Programming (MPSP) method. Currently, the work is being extended to take into the account the various uncertainties associated with the parameters. 
+
+
+### Reinforcement Learning Control in Uncertain Systems | Python, MATLAB, Simulink
+
+This work aims to implement the various reinforcement learning strategies in order achieve trajectory tracking of a robot manipulator in the presence of uncertainties such as frictional and torque disturbances. The different strategies include Actor-Critic methods and the Deep Determinsitic Policy Gradient (DDPG). Prior to this, the various startegies are tried and tested on the benchmark Cart-Pole problem which is subjected to frictional and wind disturbances. The GitHub repo for this project will be updated soon! 
 
 
 ### [Discrete-Time Uncertainty and Disturbance Estimator](https://github.com/Maithilishetty/UDE-DiscreteTime) | MATLAB, Simulink
