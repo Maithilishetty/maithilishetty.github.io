@@ -7,7 +7,7 @@ author_profile: true
 ---
 ### Design of an Optimal Controller for Effective Radiotherapy | MATLAB
 
-This work aim to design a controller to predict the optimal amount of radiation dosages using the Model Predictive Static Programming (MPSP) method. Currently, the work is being extended to take into the account the various uncertainties associated with the parameters. 
+This work aims to design a controller to predict the optimal amount of radiation dosages using the Model Predictive Static Programming (MPSP) method. Currently, the work is being extended to take into the account the various uncertainties associated with the parameters. 
 
 
 ### Reinforcement Learning Control in Uncertain Systems | Python, MATLAB, Simulink
